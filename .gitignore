@@ -1,0 +1,13 @@
+# .gitignore
+
+# macOS
+.DS_Store
+
+# Xcode
+*.swp
+.swp
+.xcuserstate
+DerivedData/
+
+# Gradle
+.gradle/
